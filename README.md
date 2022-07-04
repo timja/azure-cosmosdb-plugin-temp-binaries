@@ -1,0 +1,1 @@
+# azure-cosmosdb-plugin-temp-binaries
